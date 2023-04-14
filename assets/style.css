@@ -23,6 +23,7 @@ body{
     justify-content: center;
     align-items: center;
     margin: 10px;
+    border-radius: 10px;
     width: 100px;
     height: 100px;
     background-color: aqua;
@@ -33,4 +34,14 @@ h1{
     color: white;
     text-align: center;
     margin-top: 50px;
+}
+
+.fizz{
+    background-color: green;
+}
+.buzz{
+    background-color: red;
+}
+.fizzBuzz{
+    background-color: orange;
 }
